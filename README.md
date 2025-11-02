@@ -6,24 +6,26 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Lucas Damacena de Souza
+- Matricula: 901048
+- Proposta de projeto escolhida: Música Indie Brasileira
+- Breve descrição sobre seu projeto: O projeto apresenta uma galeria dinâmica de álbuns de música indie brasileira, com informações sobre artistas, estilos e datas de lançamento.
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+![GET](.\public\assets\img\GET.JPG)
 
-<< COLOQUE A IMAGEM POST AQUI >>
+![GET1](.\public\assets\img\GET1.JPG)
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+![POST](.\public\assets\img\POST.JPG)
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+![PUT](.\public\assets\img\PUT.JPG)
+
+![DELETE](.\public\assets\img\DELETE.JPG)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![NETWORK](.\public\assets\img\fetch.xhr.JPG)
 
 ## **Orientações Gerais**
 
